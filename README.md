@@ -6,12 +6,14 @@ This project analyzes sales data using Python & Excel, focusing on data cleaning
 🔧 Programming & Data Tools:
 Python (VS Code) – Data wrangling, cleaning, and visualization
 Excel – Additional data manipulation & formatting
+
 📦 Python Libraries:
 pandas – Data manipulation
 numpy – Numerical operations
 seaborn & matplotlib – Data visualization
 os & io – File management
 colorama – Terminal color formatting (optional, for readability)
+
 2️⃣ Data Wrangling Process
 A custom Python script was developed to automate preprocessing steps:
 
@@ -27,6 +29,7 @@ Normalize
 Drop
 Fill with zero
 ✔ Final Cleanup & Export – Saves the cleaned dataset as wrangled_{fname}.csv.
+
 3️⃣ Key Data Cleaning & Transformations
 🟢 Dropped the ‘Employee’ Column – It didn’t seem relevant to product sales.
 🟢 Fixed Data Types – Converted 'Amount' from an object to an integer.
@@ -45,6 +48,7 @@ Fill with zero
 5️⃣ Final Analysis & Takeaways
 Did not restore the ‘Employee’ column – It didn’t add value to the final analysis.
 Would appreciate feedback – Was dropping this column a mistake for the data story?
+
 🔹 Future Improvements
 💡 Next Steps:
 ✅ Capture screenshots of analysis steps for better documentation.
@@ -85,5 +89,5 @@ pip install -r requirements.txt
 3️⃣ Run the wrangler in Jupyter Notebook or Python
 python scripts/data_wrangler.py
 
-🔗 Connect with Me
+🔗 Connect with me
 https://www.linkedin.com/in/chris-gundes
