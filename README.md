@@ -53,22 +53,7 @@ Would appreciate feedback – Was dropping this column a mistake for the data st
 
 📂 Project Structure
 
-Chocolate-Company-Sales-Data/
-│
-├── datasets/
-│   ├── chocolate_sales.csv
-│   └── wrangled_chocolate_sales.csv
-│
-├── reports/
-│   ├── Process Overview.pdf
-│   └── Sales Performance Analysis.pdf
-│
-├── scripts/
-│   ├── data_wrangler.py
-│   └── data_wrangler_README.txt
-│
-├── requirements.txt
-└── README.md
+Chocolate-Company-Sales-Data/ │ ├── datasets/ │ ├── chocolate_sales.csv │ └── wrangled_chocolate_sales.csv │ ├── reports/ │ ├── Process Overview.pdf │ └── Sales Performance Analysis.pdf │ ├── scripts/ │ ├── data_wrangler.py │ └── data_wrangler_README.txt │ ├── requirements.txt └── README.md
 
 📄 Full Analysis Report
 You can download the analysis documents here:
