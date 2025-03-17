@@ -56,7 +56,6 @@ Would appreciate feedback – Was dropping this column a mistake for the data st
 ✅ Improve README structure for clarity and engagement.
 
 📂 Project Structure
-
 Chocolate-Company-Sales-Data/
 │
 ├── datasets/
