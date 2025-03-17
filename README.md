@@ -51,7 +51,7 @@ Would appreciate feedback – Was dropping this column a mistake for the data st
 ✅ Experiment with interactive visualizations (e.g., Plotly, Streamlit).
 ✅ Improve README structure for clarity and engagement.
 
-### 📂 Project Structure
+📂 Project Structure
 
 Chocolate-Company-Sales-Data/
 │
