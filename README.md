@@ -72,8 +72,8 @@ Chocolate-Company-Sales-Data/
 
 📄 Full Analysis Report
 You can download the analysis documents here:
-🔗 ./reports/Process%20Overview.pdf
-🔗 ./reports/Sales%20Performance%20Analysis.pdf
+🔗 [Process Overview PDF](reports/Process%20Overview.pdf)
+🔗 [Sales Performance Analysis PDF](reports/Sales%20Performance%20Analysis.pdf)
 
 🚀 How to Use This Project
 1️⃣ Clone the repository
